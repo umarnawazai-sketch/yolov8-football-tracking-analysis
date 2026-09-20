@@ -1,0 +1,8 @@
+venv/
+runs/
+weights/
+stubs/
+*.pt
+.DS_Store
+__pycache__/
+output_videos/
